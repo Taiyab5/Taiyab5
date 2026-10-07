@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+things+for+the+web+%F0%9F%8C%90;Always+learning+something+new+%F0%9F%93%9A;Let's+build+something+awesome!+%F0%9F%9A%80" /> </p> <p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" /> </a> <a href="https://github.com/YOUR_USERNAME?tab=followers"> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" /> </a> </p>
 🧑‍💻 About Me
 const developer = {
-    name: "YOUR NAME",
+    name: "TAIYAB",
     location: "India 🇮🇳",
     role: "Software Developer",
     currentlyLearning: ["AI", "Cloud", "System Design"],
